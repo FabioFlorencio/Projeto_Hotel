@@ -21,8 +21,11 @@ a{
 a:hover{
     opacity:1;
 }
-/*=== Header ===*/
-
+/*
+==============================================
+Header
+==============================================
+*/
 header{    
     display:flex;
     justify-content:space-between;       
@@ -57,9 +60,11 @@ header li:first-child{
 header li:last-child{
     margin-right:0;
 }
-
-/*===  section hero ===*/
-
+/*
+==============================================
+section hero
+==============================================
+*/
 .hero{
     position:relative;                    
     display:flex;
@@ -91,9 +96,11 @@ header li:last-child{
 .hero .btn:hover{    
     font-weight:bold;
 }
-
-/*===  section conheca-o-hotel ===*/
-
+/*
+==============================================
+section conheca-o-hotel
+==============================================
+*/    
 .conheca-o-hotel{
     display:flex;
     flex-direction:column;  
@@ -147,9 +154,11 @@ header li:last-child{
     flex-basis:60%;
     background-image:url(../IMG/itacare-03.jpg);    
 }
-
-/*===  section Caracteristicas ===*/
-
+/*
+==============================================
+section Caracteristicas
+==============================================
+*/
 .caracteristicas {
     display:flex;
     flex-direction:column;
@@ -196,7 +205,11 @@ header li:last-child{
 .caracteristicas .grid li p{    
     color:#FFF;
 }
-/*=== newsletter ===*/
+/*
+==============================================
+newsletter
+==============================================
+*/
 .newsletter{
     display:flex;
     flex-direction:column;
@@ -257,12 +270,14 @@ header li:last-child{
 .newsletter button:hover{
     color:#191C03;     
 }
-
-/* === Footer ===*/
-
+/*
+==============================================
+Footer
+==============================================
+*/
 footer{        
     display:flex;
-    flex-direction:column;
+    flex-direction:column;    
     align-items:center;
     padding:50px 0;
     background-color:#191C03;
@@ -290,17 +305,19 @@ footer p{
     font-size:1.6rem;
     text-align:center;
 }
-
-/* === Media queries ===*/
-
-@media (max-width:1280px){ /*Se estiver abaixo de 1280px modifica a tela*/
+/*
+==============================================
+Media queries
+==============================================
+*/
+@media screen and (max-width:1280px){ /*Se estiver abaixo de 1280px modifica a tela*/
     header li a{
         font-size:2.8rem;        
     }
     .caracteristicas .grid{
          flex-direction:row;
     }    
- }
+}
 @media screen and (max-width:1024px){
     a{
         font-size:1.4rem;
@@ -586,7 +603,6 @@ footer p{
         margin-bottom:10px;
     }
 }
-
  @media screen and (max-width:768px){ 
     header li a{
         font-size:1.8rem;        
