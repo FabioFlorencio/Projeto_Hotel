@@ -5,6 +5,7 @@
 
 * :rocket: [Site da aplicação](https://fabioflorencio.github.io/Projeto_Hotel/)
 * :clapper: [Video no Youtube](https://www.youtube.com/watch?v=8QHxcOjpelY)
+* :construction: Projeto em construção :construction:
 
 <a href="https://www.youtube.com/watch?v=8QHxcOjpelY"><img alt="Hotel capa" src="./Layout/Hotel_capa.png" width="50%"></a>
 
