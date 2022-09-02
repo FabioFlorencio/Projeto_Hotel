@@ -2,10 +2,10 @@
 
 <p>O projeto Hotel Paraíso, tem o intuito demostrar o aprendizado das tecnologias HTML, CSS e Flexbox com foco de usar os recursos de Media Queries para adequar o design responsivo em um site. Foi utilizado como base uma aplicação do canal <a href="https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGjLmjwfRc0Q9TA5U-PCWp4"> Node Studio Treinamentos </a> para replicar esses conceitos.</p>
 
-
+* :construction: Projeto em construção :construction:
 * :rocket: [Site da aplicação](https://fabioflorencio.github.io/Projeto_Hotel/)
 * :clapper: [Video no Youtube](https://www.youtube.com/watch?v=8QHxcOjpelY)
-* :construction: Projeto em construção :construction:
+
 
 <a href="https://www.youtube.com/watch?v=8QHxcOjpelY"><img alt="Hotel capa" src="./Layout/Hotel_capa.png" width="50%"></a>
 
